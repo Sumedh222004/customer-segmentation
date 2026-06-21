@@ -1,0 +1,33 @@
+
+CUSTOMER SEGMENTATION ANALYSIS — KEY FINDINGS & RECOMMENDATIONS
+================================================================
+Dataset: 125,000 transactions | 6,889 customers | ₹81.2L revenue | 2011-2015
+
+FINDING 1: CHAMPIONS DRIVE DISPROPORTIONATE VALUE
+- 1,802 customers (26.2%) generate 35.8% of total revenue
+- Avg spend: ₹1,612 | Avg frequency: 23 transactions
+- ACTION: Launch loyalty program for Champions — even 10% increase in
+  their spend = ₹2.9L additional revenue
+
+FINDING 2: AT-RISK SEGMENT IS THE HIGHEST PRIORITY
+- 1,332 customers contributing ₹18.2L (22.4%) showing declining recency
+- Avg 80 days since last purchase — still recoverable
+- ACTION: Trigger re-engagement campaign within 30 days before they
+  move to Lost. Estimated recoverable revenue: ₹9-12L
+
+FINDING 3: LOST CUSTOMERS REPRESENT A HIDDEN OPPORTUNITY
+- 2,025 Lost customers still account for ₹18.5L historical revenue
+- If 15% reactivated at avg ₹915 spend = ₹2.8L recovered revenue
+- ACTION: Winback campaign targeting High Value Churned (86 customers,
+  avg ₹1,293 spend) as first priority — highest ROI segment
+
+FINDING 4: PARETO PRINCIPLE CONFIRMED
+- Top 2 segments (Champions + At Risk) = 58.2% of revenue
+- Bottom 2 segments (Promising + High Value Churned) = 6.4% of revenue
+- ACTION: Concentrate retention budget on Champions and At Risk segments
+
+STATISTICAL NOTE:
+- RFM scoring uses NTILE(4) quartile segmentation across 6,889 customers
+- Reference date: 2015-03-17 (day after last transaction)
+- Segments validated against revenue distribution — Champions avg monetary
+  (₹1,612) is 76% higher than Lost avg (₹915), confirming segment validity
